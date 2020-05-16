@@ -32,12 +32,9 @@ Add in `Packages/manifest.json` to `dependencies`:
 	</p>
 </details>
 
-Don't forget to reference **UPMDependenciesOutput** via Assemly Definitions.
-
 ## How to use
-```csharp
 Just click in Unity editor `Window -> Package Manager -> Print all dependencies` and check the console tab out.
-```
+
 <details>
 	<summary>Example output</summary>
     
