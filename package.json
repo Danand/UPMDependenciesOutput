@@ -1,0 +1,14 @@
+{
+  "name": "com.danand.upmdepsout",
+  "category": "Scripting", 
+  "displayName": "UPM Dependencies Output",
+  "author": "danand <danand@inbox.ru> (https://github.com/danand)",
+  "description": "Tool for output recursive UPM-dependencies graph.",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/Danand/UPMDependenciesOutput.git"
+  },
+  "keywords": [ "upm", "dependencies" ]
+}
